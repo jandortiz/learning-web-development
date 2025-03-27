@@ -31,7 +31,7 @@
 body {
   /* background-color: #393E46; */
   /* background-color: black; */
-  background-image: url('/dice-game/images/background.jpg');
+  background-image: url('../images/background.jpg');
 }
 
 h1 {
