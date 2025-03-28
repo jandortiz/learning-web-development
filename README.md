@@ -10,7 +10,7 @@ Repositorio donde dejo consignado los diversos desarrollos web que he ido realiz
 - Sí... sé que existe ChatGPT, pero el objetivo es aprender, practicar y entender cómo se usa *HTML*, *CSS* y *JavaScript*. 😜
  
 
-## 🎲🎲 Dice-Game 🎲🎲: 
+## 🎲🎲 Dice-Game 🎲🎲
 
 En este proyecto se construye una página que se emula el lanzamiento de dados y una competencia entre dos jugadores.
 
