@@ -1,0 +1,36 @@
+body {
+    border: 3px solid red;
+    justify-items: center;
+    padding: 30px;
+}
+
+h1 {
+    border: 3px solid blue;
+}
+
+a {
+    border: 3px solid rebeccapurple;
+}
+
+
+.main-container {
+    border: 3px solid black;
+    text-align: center;
+
+    position: relative;
+}
+
+.projects-container {
+    background-color: azure;
+    border: 3px solid yellowgreen;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.projects {
+    border: 3px solid chocolate;
+    margin: 10px;
+    padding: 10px;
+}
