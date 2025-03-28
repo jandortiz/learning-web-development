@@ -2,20 +2,15 @@
   width: 70%;
   margin: auto;
   text-align: center;
-  
-  /* border: 3px solid red; */
 }
 
 .dice {
   text-align: center;
   display: inline-block;
-  /* border: 3px solid black; */
 }
 
 .play-button{
   padding:50px;
-  
-  /* border: 3px solid blue; */
 }
 
 .play-button button {
@@ -24,13 +19,10 @@
   border-radius: 5px;
   font-family: "Mystery Quest", system-ui;
   color: #D2122E;
-  background-color: black;
-  
+  background-color: black;  
 }
 
 body {
-  /* background-color: #393E46; */
-  /* background-color: black; */
   background-image: url('../images/background.jpg');
 }
 
@@ -48,14 +40,11 @@ p {
   color: #D2122E;
   font-family: 'Mystery Quest', cursive;
   text-shadow: 1px 0 white;
-
-
 }
 
 img {
   width: 80%;
 }
-
 
 footer {
   margin-top: 5%;
